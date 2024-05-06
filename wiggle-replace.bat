@@ -1,0 +1,1 @@
+docker run -it --rm -v %cd%:/cwd wiggle wiggle --replace %1 %1.rej
